@@ -7,15 +7,17 @@
         "w": 249,
         "h": 437
       },
-      "sourceSize": {
-        "w": 440,
-        "h": 446
-      },
+      "rotated": false,
+      "trimmed": true,
       "spriteSourceSize": {
         "x": 191,
         "y": 9,
         "w": 249,
         "h": 437
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
       }
     }
   }
