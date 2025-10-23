@@ -1,129 +1,9 @@
 {
   "frames": {
-    "frame_048.png": {
+    "buxian_guodu-1_00092.png": {
       "frame": {
         "x": 0,
         "y": 0,
-        "w": 273,
-        "h": 450
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 171,
-        "y": 11,
-        "w": 273,
-        "h": 450
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_049.png": {
-      "frame": {
-        "x": 0,
-        "y": 452,
-        "w": 271,
-        "h": 450
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 172,
-        "y": 11,
-        "w": 271,
-        "h": 450
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_050.png": {
-      "frame": {
-        "x": 0,
-        "y": 904,
-        "w": 266,
-        "h": 449
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 174,
-        "y": 11,
-        "w": 266,
-        "h": 449
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_051.png": {
-      "frame": {
-        "x": 0,
-        "y": 1355,
-        "w": 262,
-        "h": 447
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 176,
-        "y": 11,
-        "w": 262,
-        "h": 447
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_060.png": {
-      "frame": {
-        "x": 275,
-        "y": 0,
-        "w": 260,
-        "h": 442
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 178,
-        "y": 10,
-        "w": 260,
-        "h": 442
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_061.png": {
-      "frame": {
-        "x": 275,
-        "y": 444,
-        "w": 263,
-        "h": 443
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 177,
-        "y": 10,
-        "w": 263,
-        "h": 443
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_062.png": {
-      "frame": {
-        "x": 540,
-        "y": 444,
         "w": 264,
         "h": 444
       },
@@ -140,10 +20,10 @@
         "h": 500
       }
     },
-    "frame_063.png": {
+    "buxian_guodu-1_00093.png": {
       "frame": {
-        "x": 540,
-        "y": 890,
+        "x": 266,
+        "y": 0,
         "w": 264,
         "h": 445
       },
@@ -160,10 +40,10 @@
         "h": 500
       }
     },
-    "frame_064.png": {
+    "buxian_guodu-1_00095.png": {
       "frame": {
-        "x": 540,
-        "y": 1337,
+        "x": 532,
+        "y": 0,
         "w": 264,
         "h": 445
       },
@@ -180,10 +60,10 @@
         "h": 500
       }
     },
-    "frame_065.png": {
+    "buxian_guodu-1_00096.png": {
       "frame": {
-        "x": 806,
-        "y": 444,
+        "x": 798,
+        "y": 0,
         "w": 264,
         "h": 445
       },
@@ -200,10 +80,10 @@
         "h": 500
       }
     },
-    "frame_066.png": {
+    "buxian_guodu-1_00098.png": {
       "frame": {
-        "x": 275,
-        "y": 889,
+        "x": 1064,
+        "y": 0,
         "w": 260,
         "h": 445
       },
@@ -220,9 +100,9 @@
         "h": 500
       }
     },
-    "frame_067.png": {
+    "buxian_guodu-1_00099.png": {
       "frame": {
-        "x": 537,
+        "x": 1326,
         "y": 0,
         "w": 256,
         "h": 442
@@ -240,9 +120,9 @@
         "h": 500
       }
     },
-    "frame_068.png": {
+    "buxian_guodu-1_00101.png": {
       "frame": {
-        "x": 795,
+        "x": 1584,
         "y": 0,
         "w": 252,
         "h": 442
@@ -260,10 +140,10 @@
         "h": 500
       }
     },
-    "frame_069.png": {
+    "buxian_guodu-1_00102.png": {
       "frame": {
-        "x": 1049,
-        "y": 0,
+        "x": 0,
+        "y": 447,
         "w": 250,
         "h": 441
       },
@@ -280,10 +160,10 @@
         "h": 500
       }
     },
-    "frame_070.png": {
+    "buxian_guodu-1_00104.png": {
       "frame": {
-        "x": 1301,
-        "y": 0,
+        "x": 252,
+        "y": 447,
         "w": 246,
         "h": 440
       },
@@ -300,10 +180,30 @@
         "h": 500
       }
     },
-    "frame_072.png": {
+    "buxian_guodu-1_00105.png": {
       "frame": {
-        "x": 1549,
-        "y": 0,
+        "x": 500,
+        "y": 447,
+        "w": 245,
+        "h": 440
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 10,
+        "w": 245,
+        "h": 440
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxian_guodu-1_00107.png": {
+      "frame": {
+        "x": 747,
+        "y": 447,
         "w": 246,
         "h": 440
       },
@@ -320,10 +220,10 @@
         "h": 500
       }
     },
-    "frame_073.png": {
+    "buxian_guodu-1_00108.png": {
       "frame": {
-        "x": 1797,
-        "y": 0,
+        "x": 995,
+        "y": 447,
         "w": 247,
         "h": 440
       },
@@ -340,10 +240,10 @@
         "h": 500
       }
     },
-    "frame_074.png": {
+    "buxian_guodu-1_00110.png": {
       "frame": {
-        "x": 275,
-        "y": 1336,
+        "x": 1244,
+        "y": 447,
         "w": 250,
         "h": 440
       },
@@ -360,10 +260,10 @@
         "h": 500
       }
     },
-    "frame_075.png": {
+    "buxian_guodu-1_00111.png": {
       "frame": {
-        "x": 1072,
-        "y": 444,
+        "x": 1496,
+        "y": 447,
         "w": 250,
         "h": 440
       },
@@ -380,10 +280,10 @@
         "h": 500
       }
     },
-    "frame_076.png": {
+    "buxian_guodu-1_00113.png": {
       "frame": {
-        "x": 1324,
-        "y": 444,
+        "x": 1748,
+        "y": 447,
         "w": 252,
         "h": 439
       },
@@ -400,10 +300,10 @@
         "h": 500
       }
     },
-    "frame_077.png": {
+    "buxian_guodu-1_00114.png": {
       "frame": {
-        "x": 1578,
-        "y": 444,
+        "x": 0,
+        "y": 890,
         "w": 253,
         "h": 439
       },
@@ -420,10 +320,10 @@
         "h": 500
       }
     },
-    "frame_078.png": {
+    "buxian_guodu-1_00116.png": {
       "frame": {
-        "x": 806,
-        "y": 891,
+        "x": 255,
+        "y": 890,
         "w": 255,
         "h": 439
       },
@@ -440,10 +340,10 @@
         "h": 500
       }
     },
-    "frame_079.png": {
+    "buxian_guodu-1_00117.png": {
       "frame": {
-        "x": 806,
-        "y": 1332,
+        "x": 512,
+        "y": 890,
         "w": 255,
         "h": 438
       },
@@ -460,10 +360,10 @@
         "h": 500
       }
     },
-    "frame_080.png": {
+    "buxian_guodu-1_00119.png": {
       "frame": {
-        "x": 1063,
-        "y": 891,
+        "x": 769,
+        "y": 890,
         "w": 254,
         "h": 437
       },
@@ -480,10 +380,10 @@
         "h": 500
       }
     },
-    "frame_081.png": {
+    "buxian_guodu-1_00120.png": {
       "frame": {
-        "x": 1063,
-        "y": 1330,
+        "x": 1025,
+        "y": 890,
         "w": 253,
         "h": 437
       },
@@ -500,10 +400,10 @@
         "h": 500
       }
     },
-    "frame_082.png": {
+    "buxian_guodu-1_00122.png": {
       "frame": {
-        "x": 1319,
-        "y": 891,
+        "x": 1280,
+        "y": 890,
         "w": 252,
         "h": 436
       },
@@ -520,10 +420,10 @@
         "h": 500
       }
     },
-    "frame_083.png": {
+    "buxian_guodu-1_00123.png": {
       "frame": {
-        "x": 1573,
-        "y": 891,
+        "x": 1534,
+        "y": 890,
         "w": 251,
         "h": 436
       },
@@ -540,10 +440,10 @@
         "h": 500
       }
     },
-    "frame_084.png": {
+    "buxian_guodu-1_00125.png": {
       "frame": {
-        "x": 1319,
-        "y": 1329,
+        "x": 1787,
+        "y": 890,
         "w": 248,
         "h": 436
       },
@@ -560,10 +460,10 @@
         "h": 500
       }
     },
-    "frame_085.png": {
+    "buxian_guodu-1_00126.png": {
       "frame": {
-        "x": 1569,
-        "y": 1329,
+        "x": 0,
+        "y": 1331,
         "w": 248,
         "h": 436
       },
@@ -573,6 +473,146 @@
         "x": 191,
         "y": 9,
         "w": 248,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxian_guodu-1_00128.png": {
+      "frame": {
+        "x": 250,
+        "y": 1331,
+        "w": 247,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 9,
+        "w": 247,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxian_guodu-1_00129.png": {
+      "frame": {
+        "x": 499,
+        "y": 1331,
+        "w": 248,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 9,
+        "w": 248,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxian_guodu-1_00131.png": {
+      "frame": {
+        "x": 749,
+        "y": 1331,
+        "w": 249,
+        "h": 437
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 9,
+        "w": 249,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxian_guodu-1_00132.png": {
+      "frame": {
+        "x": 1000,
+        "y": 1331,
+        "w": 250,
+        "h": 437
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 9,
+        "w": 250,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxian_guodu-1_00134.png": {
+      "frame": {
+        "x": 1252,
+        "y": 1331,
+        "w": 252,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 10,
+        "w": 252,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxian_guodu-1_00135.png": {
+      "frame": {
+        "x": 1506,
+        "y": 1331,
+        "w": 252,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 10,
+        "w": 252,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxian_guodu-1_00137.png": {
+      "frame": {
+        "x": 1760,
+        "y": 1331,
+        "w": 253,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 10,
+        "w": 253,
         "h": 436
       },
       "sourceSize": {

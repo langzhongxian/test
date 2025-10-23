@@ -1,68 +1,8 @@
 {
   "frames": {
-    "frame_085.png": {
+    "buxain-1_00131.png": {
       "frame": {
         "x": 0,
-        "y": 0,
-        "w": 243,
-        "h": 422
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 183,
-        "y": 11,
-        "w": 243,
-        "h": 422
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_086.png": {
-      "frame": {
-        "x": 0,
-        "y": 424,
-        "w": 243,
-        "h": 423
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 183,
-        "y": 11,
-        "w": 243,
-        "h": 423
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_087.png": {
-      "frame": {
-        "x": 0,
-        "y": 849,
-        "w": 243,
-        "h": 423
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 183,
-        "y": 11,
-        "w": 243,
-        "h": 423
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_088.png": {
-      "frame": {
-        "x": 245,
         "y": 0,
         "w": 244,
         "h": 423
@@ -80,10 +20,10 @@
         "h": 500
       }
     },
-    "frame_089.png": {
+    "buxain-1_00132.png": {
       "frame": {
-        "x": 0,
-        "y": 1274,
+        "x": 246,
+        "y": 0,
         "w": 243,
         "h": 424
       },
@@ -100,10 +40,10 @@
         "h": 500
       }
     },
-    "frame_090.png": {
+    "buxain-1_00134.png": {
       "frame": {
-        "x": 245,
-        "y": 425,
+        "x": 491,
+        "y": 0,
         "w": 243,
         "h": 426
       },
@@ -120,10 +60,10 @@
         "h": 500
       }
     },
-    "frame_091.png": {
+    "buxain-1_00135.png": {
       "frame": {
-        "x": 245,
-        "y": 853,
+        "x": 736,
+        "y": 0,
         "w": 243,
         "h": 426
       },
@@ -140,10 +80,10 @@
         "h": 500
       }
     },
-    "frame_092.png": {
+    "buxain-1_00137.png": {
       "frame": {
-        "x": 245,
-        "y": 1281,
+        "x": 981,
+        "y": 0,
         "w": 242,
         "h": 426
       },
@@ -160,10 +100,10 @@
         "h": 500
       }
     },
-    "frame_093.png": {
+    "buxain-1_00138.png": {
       "frame": {
-        "x": 490,
-        "y": 425,
+        "x": 1225,
+        "y": 0,
         "w": 242,
         "h": 426
       },
@@ -180,70 +120,70 @@
         "h": 500
       }
     },
-    "frame_094.png": {
-      "frame": {
-        "x": 734,
-        "y": 425,
-        "w": 243,
-        "h": 426
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 183,
-        "y": 10,
-        "w": 243,
-        "h": 426
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_095.png": {
-      "frame": {
-        "x": 979,
-        "y": 425,
-        "w": 243,
-        "h": 426
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 183,
-        "y": 10,
-        "w": 243,
-        "h": 426
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_096.png": {
-      "frame": {
-        "x": 1224,
-        "y": 425,
-        "w": 243,
-        "h": 426
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 183,
-        "y": 10,
-        "w": 243,
-        "h": 426
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_097.png": {
+    "buxain-1_00140.png": {
       "frame": {
         "x": 1469,
-        "y": 425,
+        "y": 0,
+        "w": 243,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 10,
+        "w": 243,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxain-1_00141.png": {
+      "frame": {
+        "x": 1714,
+        "y": 0,
+        "w": 243,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 10,
+        "w": 243,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxain-1_00143.png": {
+      "frame": {
+        "x": 0,
+        "y": 428,
+        "w": 243,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 10,
+        "w": 243,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxain-1_00144.png": {
+      "frame": {
+        "x": 245,
+        "y": 428,
         "w": 244,
         "h": 426
       },
@@ -260,10 +200,10 @@
         "h": 500
       }
     },
-    "frame_098.png": {
+    "buxain-1_00146.png": {
       "frame": {
-        "x": 1715,
-        "y": 425,
+        "x": 491,
+        "y": 428,
         "w": 244,
         "h": 425
       },
@@ -280,10 +220,10 @@
         "h": 500
       }
     },
-    "frame_099.png": {
+    "buxain-1_00147.png": {
       "frame": {
-        "x": 734,
-        "y": 853,
+        "x": 737,
+        "y": 428,
         "w": 244,
         "h": 425
       },
@@ -300,10 +240,10 @@
         "h": 500
       }
     },
-    "frame_100.png": {
+    "buxain-1_00149.png": {
       "frame": {
-        "x": 734,
-        "y": 1280,
+        "x": 983,
+        "y": 428,
         "w": 244,
         "h": 424
       },
@@ -320,10 +260,10 @@
         "h": 500
       }
     },
-    "frame_101.png": {
+    "buxain-1_00150.png": {
       "frame": {
-        "x": 980,
-        "y": 853,
+        "x": 1229,
+        "y": 428,
         "w": 244,
         "h": 424
       },
@@ -340,10 +280,10 @@
         "h": 500
       }
     },
-    "frame_102.png": {
+    "buxain-1_00152.png": {
       "frame": {
-        "x": 1226,
-        "y": 853,
+        "x": 1475,
+        "y": 428,
         "w": 245,
         "h": 425
       },

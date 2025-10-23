@@ -1,6 +1,6 @@
 {
   "frames": {
-    "frame_001.png": {
+    "xunhuan_daiji-1_00000.png": {
       "frame": {
         "x": 0,
         "y": 0,
@@ -20,7 +20,7 @@
         "h": 500
       }
     },
-    "frame_002.png": {
+    "xunhuan_daiji-1_00002.png": {
       "frame": {
         "x": 602,
         "y": 0,
@@ -40,7 +40,7 @@
         "h": 500
       }
     },
-    "frame_003.png": {
+    "xunhuan_daiji-1_00003.png": {
       "frame": {
         "x": 1204,
         "y": 0,
@@ -60,7 +60,7 @@
         "h": 500
       }
     },
-    "frame_004.png": {
+    "xunhuan_daiji-1_00005.png": {
       "frame": {
         "x": 0,
         "y": 448,
@@ -80,7 +80,47 @@
         "h": 500
       }
     },
-    "frame_005.png": {
+    "xunhuan_daiji-1_00006.png": {
+      "frame": {
+        "x": 602,
+        "y": 448,
+        "w": 600,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "xunhuan_daiji-1_00008.png": {
+      "frame": {
+        "x": 1204,
+        "y": 448,
+        "w": 600,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "xunhuan_daiji-1_00009.png": {
       "frame": {
         "x": 0,
         "y": 896,
@@ -100,7 +140,47 @@
         "h": 500
       }
     },
-    "frame_006.png": {
+    "xunhuan_daiji-1_00011.png": {
+      "frame": {
+        "x": 602,
+        "y": 896,
+        "w": 600,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "xunhuan_daiji-1_00012.png": {
+      "frame": {
+        "x": 1204,
+        "y": 896,
+        "w": 600,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "xunhuan_daiji-1_00014.png": {
       "frame": {
         "x": 0,
         "y": 1344,
@@ -120,67 +200,7 @@
         "h": 500
       }
     },
-    "frame_007.png": {
-      "frame": {
-        "x": 602,
-        "y": 448,
-        "w": 600,
-        "h": 446
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 600,
-        "h": 446
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_008.png": {
-      "frame": {
-        "x": 1204,
-        "y": 448,
-        "w": 600,
-        "h": 446
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 600,
-        "h": 446
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_009.png": {
-      "frame": {
-        "x": 602,
-        "y": 896,
-        "w": 600,
-        "h": 446
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 600,
-        "h": 446
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_010.png": {
+    "xunhuan_daiji-1_00015.png": {
       "frame": {
         "x": 602,
         "y": 1344,
@@ -200,27 +220,7 @@
         "h": 500
       }
     },
-    "frame_011.png": {
-      "frame": {
-        "x": 1204,
-        "y": 896,
-        "w": 600,
-        "h": 446
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 600,
-        "h": 446
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_012.png": {
+    "xunhuan_daiji-1_00017.png": {
       "frame": {
         "x": 1204,
         "y": 1344,

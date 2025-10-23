@@ -1,10 +1,10 @@
 {
   "frames": {
-    "frame_084.png": {
+    "buzhuang_guodu-1_00143.png": {
       "frame": {
         "x": 0,
         "y": 0,
-        "w": 249,
+        "w": 248,
         "h": 436
       },
       "rotated": false,
@@ -12,7 +12,7 @@
       "spriteSourceSize": {
         "x": 191,
         "y": 9,
-        "w": 249,
+        "w": 248,
         "h": 436
       },
       "sourceSize": {
@@ -20,149 +20,9 @@
         "h": 500
       }
     },
-    "frame_085.png": {
+    "buzhuang_guodu-1_00144.png": {
       "frame": {
-        "x": 0,
-        "y": 438,
-        "w": 249,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 249,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_086.png": {
-      "frame": {
-        "x": 0,
-        "y": 876,
-        "w": 249,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 249,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_087.png": {
-      "frame": {
-        "x": 0,
-        "y": 1314,
-        "w": 249,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 249,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_088.png": {
-      "frame": {
-        "x": 251,
-        "y": 0,
-        "w": 249,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 249,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_089.png": {
-      "frame": {
-        "x": 502,
-        "y": 0,
-        "w": 249,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 249,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_090.png": {
-      "frame": {
-        "x": 753,
-        "y": 0,
-        "w": 249,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 249,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_091.png": {
-      "frame": {
-        "x": 1004,
-        "y": 0,
-        "w": 249,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 249,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_092.png": {
-      "frame": {
-        "x": 1255,
+        "x": 250,
         "y": 0,
         "w": 248,
         "h": 436
@@ -180,9 +40,9 @@
         "h": 500
       }
     },
-    "frame_093.png": {
+    "buzhuang_guodu-1_00146.png": {
       "frame": {
-        "x": 1505,
+        "x": 500,
         "y": 0,
         "w": 248,
         "h": 436
@@ -200,9 +60,9 @@
         "h": 500
       }
     },
-    "frame_094.png": {
+    "buzhuang_guodu-1_00147.png": {
       "frame": {
-        "x": 1755,
+        "x": 750,
         "y": 0,
         "w": 248,
         "h": 436
@@ -220,10 +80,10 @@
         "h": 500
       }
     },
-    "frame_095.png": {
+    "buzhuang_guodu-1_00149.png": {
       "frame": {
-        "x": 251,
-        "y": 438,
+        "x": 1000,
+        "y": 0,
         "w": 248,
         "h": 436
       },
@@ -240,10 +100,10 @@
         "h": 500
       }
     },
-    "frame_096.png": {
+    "buzhuang_guodu-1_00150.png": {
       "frame": {
-        "x": 251,
-        "y": 876,
+        "x": 1250,
+        "y": 0,
         "w": 248,
         "h": 436
       },
@@ -260,110 +120,10 @@
         "h": 500
       }
     },
-    "frame_097.png": {
+    "buzhuang_guodu-1_00152.png": {
       "frame": {
-        "x": 251,
-        "y": 1314,
-        "w": 248,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 248,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_098.png": {
-      "frame": {
-        "x": 501,
-        "y": 438,
-        "w": 248,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 248,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_099.png": {
-      "frame": {
-        "x": 501,
-        "y": 876,
-        "w": 248,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 248,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_100.png": {
-      "frame": {
-        "x": 501,
-        "y": 1314,
-        "w": 248,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 248,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_101.png": {
-      "frame": {
-        "x": 751,
-        "y": 438,
-        "w": 248,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 248,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_102.png": {
-      "frame": {
-        "x": 1001,
-        "y": 438,
+        "x": 1500,
+        "y": 0,
         "w": 248,
         "h": 436
       },

@@ -1,8 +1,28 @@
 {
   "frames": {
-    "frame_160.png": {
+    "fapai-1_00237.png": {
       "frame": {
         "x": 0,
+        "y": 0,
+        "w": 253,
+        "h": 441
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 9,
+        "w": 253,
+        "h": 441
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00239.png": {
+      "frame": {
+        "x": 255,
         "y": 0,
         "w": 254,
         "h": 441

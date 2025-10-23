@@ -1,38 +1,18 @@
 {
   "frames": {
-    "frame_105.png": {
+    "buxainbuzhuang-1_00172.png": {
       "frame": {
         "x": 0,
         "y": 0,
-        "w": 336,
-        "h": 440
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 186,
-        "y": 10,
-        "w": 336,
-        "h": 440
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_106.png": {
-      "frame": {
-        "x": 0,
-        "y": 442,
-        "w": 332,
+        "w": 281,
         "h": 437
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 186,
-        "y": 10,
-        "w": 332,
+        "x": 188,
+        "y": 9,
+        "w": 281,
         "h": 437
       },
       "sourceSize": {
@@ -40,150 +20,10 @@
         "h": 500
       }
     },
-    "frame_107.png": {
+    "buxainbuzhuang-1_00173.png": {
       "frame": {
-        "x": 0,
-        "y": 881,
-        "w": 325,
-        "h": 434
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 186,
-        "y": 10,
-        "w": 325,
-        "h": 434
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_108.png": {
-      "frame": {
-        "x": 0,
-        "y": 1317,
-        "w": 322,
-        "h": 432
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 186,
-        "y": 10,
-        "w": 322,
-        "h": 432
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_109.png": {
-      "frame": {
-        "x": 338,
+        "x": 283,
         "y": 0,
-        "w": 319,
-        "h": 428
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 186,
-        "y": 10,
-        "w": 319,
-        "h": 428
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_111.png": {
-      "frame": {
-        "x": 338,
-        "y": 430,
-        "w": 312,
-        "h": 430
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 185,
-        "y": 10,
-        "w": 312,
-        "h": 430
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_112.png": {
-      "frame": {
-        "x": 338,
-        "y": 862,
-        "w": 308,
-        "h": 432
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 185,
-        "y": 10,
-        "w": 308,
-        "h": 432
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_113.png": {
-      "frame": {
-        "x": 338,
-        "y": 1296,
-        "w": 298,
-        "h": 435
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 186,
-        "y": 10,
-        "w": 298,
-        "h": 435
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_114.png": {
-      "frame": {
-        "x": 652,
-        "y": 430,
-        "w": 293,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 186,
-        "y": 10,
-        "w": 293,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_116.png": {
-      "frame": {
-        "x": 652,
-        "y": 868,
         "w": 276,
         "h": 440
       },
@@ -200,90 +40,130 @@
         "h": 500
       }
     },
-    "frame_117.png": {
+    "buxainbuzhuang-1_00175.png": {
       "frame": {
-        "x": 652,
-        "y": 1310,
-        "w": 268,
-        "h": 444
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 190,
-        "y": 9,
-        "w": 268,
-        "h": 444
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_118.png": {
-      "frame": {
-        "x": 930,
-        "y": 868,
-        "w": 266,
-        "h": 444
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 190,
-        "y": 9,
-        "w": 266,
-        "h": 444
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_119.png": {
-      "frame": {
-        "x": 930,
-        "y": 1314,
-        "w": 264,
-        "h": 445
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 190,
-        "y": 9,
-        "w": 264,
-        "h": 445
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_120.png": {
-      "frame": {
-        "x": 1198,
-        "y": 868,
-        "w": 264,
-        "h": 441
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 190,
-        "y": 9,
-        "w": 264,
-        "h": 441
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_123.png": {
-      "frame": {
-        "x": 659,
+        "x": 561,
         "y": 0,
+        "w": 268,
+        "h": 444
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 9,
+        "w": 268,
+        "h": 444
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00176.png": {
+      "frame": {
+        "x": 831,
+        "y": 0,
+        "w": 266,
+        "h": 444
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 9,
+        "w": 266,
+        "h": 444
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00178.png": {
+      "frame": {
+        "x": 1099,
+        "y": 0,
+        "w": 264,
+        "h": 445
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 9,
+        "w": 264,
+        "h": 445
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00179.png": {
+      "frame": {
+        "x": 1365,
+        "y": 0,
+        "w": 264,
+        "h": 441
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 9,
+        "w": 264,
+        "h": 441
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00181.png": {
+      "frame": {
+        "x": 1631,
+        "y": 0,
+        "w": 266,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 9,
+        "w": 266,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00182.png": {
+      "frame": {
+        "x": 0,
+        "y": 447,
+        "w": 268,
+        "h": 421
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 9,
+        "w": 268,
+        "h": 421
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00184.png": {
+      "frame": {
+        "x": 270,
+        "y": 447,
         "w": 274,
         "h": 421
       },
@@ -300,10 +180,10 @@
         "h": 500
       }
     },
-    "frame_124.png": {
+    "buxainbuzhuang-1_00185.png": {
       "frame": {
-        "x": 935,
-        "y": 0,
+        "x": 546,
+        "y": 447,
         "w": 277,
         "h": 421
       },
@@ -320,10 +200,30 @@
         "h": 500
       }
     },
-    "frame_126.png": {
+    "buxainbuzhuang-1_00187.png": {
       "frame": {
-        "x": 1214,
-        "y": 0,
+        "x": 825,
+        "y": 447,
+        "w": 279,
+        "h": 420
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 9,
+        "w": 279,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00188.png": {
+      "frame": {
+        "x": 1106,
+        "y": 447,
         "w": 280,
         "h": 420
       },
@@ -340,10 +240,10 @@
         "h": 500
       }
     },
-    "frame_127.png": {
+    "buxainbuzhuang-1_00190.png": {
       "frame": {
-        "x": 1496,
-        "y": 0,
+        "x": 1388,
+        "y": 447,
         "w": 279,
         "h": 420
       },
@@ -360,10 +260,10 @@
         "h": 500
       }
     },
-    "frame_128.png": {
+    "buxainbuzhuang-1_00191.png": {
       "frame": {
-        "x": 947,
-        "y": 430,
+        "x": 1669,
+        "y": 447,
         "w": 280,
         "h": 420
       },
@@ -380,10 +280,10 @@
         "h": 500
       }
     },
-    "frame_129.png": {
+    "buxainbuzhuang-1_00193.png": {
       "frame": {
-        "x": 1229,
-        "y": 430,
+        "x": 0,
+        "y": 870,
         "w": 281,
         "h": 422
       },
@@ -400,10 +300,10 @@
         "h": 500
       }
     },
-    "frame_130.png": {
+    "buxainbuzhuang-1_00194.png": {
       "frame": {
-        "x": 1512,
-        "y": 430,
+        "x": 283,
+        "y": 870,
         "w": 282,
         "h": 424
       },
@@ -420,10 +320,10 @@
         "h": 500
       }
     },
-    "frame_131.png": {
+    "buxainbuzhuang-1_00196.png": {
       "frame": {
-        "x": 1464,
-        "y": 868,
+        "x": 567,
+        "y": 870,
         "w": 283,
         "h": 427
       },
@@ -440,10 +340,10 @@
         "h": 500
       }
     },
-    "frame_132.png": {
+    "buxainbuzhuang-1_00197.png": {
       "frame": {
-        "x": 1749,
-        "y": 868,
+        "x": 852,
+        "y": 870,
         "w": 284,
         "h": 428
       },
@@ -460,10 +360,10 @@
         "h": 500
       }
     },
-    "frame_133.png": {
+    "buxainbuzhuang-1_00199.png": {
       "frame": {
-        "x": 1198,
-        "y": 1311,
+        "x": 1138,
+        "y": 870,
         "w": 284,
         "h": 432
       },
@@ -480,10 +380,10 @@
         "h": 500
       }
     },
-    "frame_134.png": {
+    "buxainbuzhuang-1_00200.png": {
       "frame": {
-        "x": 1484,
-        "y": 1311,
+        "x": 1424,
+        "y": 870,
         "w": 283,
         "h": 433
       },
@@ -500,10 +400,50 @@
         "h": 500
       }
     },
-    "frame_137.png": {
+    "buxainbuzhuang-1_00202.png": {
       "frame": {
-        "x": 1769,
-        "y": 1311,
+        "x": 1709,
+        "y": 870,
+        "w": 282,
+        "h": 434
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 10,
+        "w": 282,
+        "h": 434
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00203.png": {
+      "frame": {
+        "x": 0,
+        "y": 1306,
+        "w": 280,
+        "h": 435
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 9,
+        "w": 280,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00205.png": {
+      "frame": {
+        "x": 282,
+        "y": 1306,
         "w": 274,
         "h": 430
       },
@@ -520,10 +460,10 @@
         "h": 500
       }
     },
-    "frame_138.png": {
+    "buxainbuzhuang-1_00206.png": {
       "frame": {
-        "x": 1777,
-        "y": 0,
+        "x": 558,
+        "y": 1306,
         "w": 268,
         "h": 425
       },
@@ -540,17 +480,77 @@
         "h": 500
       }
     },
-    "frame_143.png": {
+    "buxainbuzhuang-1_00208.png": {
       "frame": {
-        "x": 1796,
-        "y": 430,
+        "x": 828,
+        "y": 1306,
+        "w": 252,
+        "h": 420
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 9,
+        "w": 252,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00209.png": {
+      "frame": {
+        "x": 1082,
+        "y": 1306,
+        "w": 245,
+        "h": 420
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 9,
+        "w": 245,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00211.png": {
+      "frame": {
+        "x": 1329,
+        "y": 1306,
         "w": 243,
         "h": 421
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 191,
+        "x": 190,
+        "y": 9,
+        "w": 243,
+        "h": 421
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxainbuzhuang-1_00212.png": {
+      "frame": {
+        "x": 1574,
+        "y": 1306,
+        "w": 243,
+        "h": 421
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
         "y": 9,
         "w": 243,
         "h": 421

@@ -1,69 +1,9 @@
 {
   "frames": {
-    "frame_029.png": {
+    "shouxian-1_00048.png": {
       "frame": {
         "x": 0,
         "y": 0,
-        "w": 250,
-        "h": 439
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 190,
-        "y": 8,
-        "w": 250,
-        "h": 439
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_030.png": {
-      "frame": {
-        "x": 0,
-        "y": 441,
-        "w": 250,
-        "h": 439
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 190,
-        "y": 8,
-        "w": 250,
-        "h": 439
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_031.png": {
-      "frame": {
-        "x": 0,
-        "y": 882,
-        "w": 250,
-        "h": 439
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 190,
-        "y": 8,
-        "w": 250,
-        "h": 439
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_032.png": {
-      "frame": {
-        "x": 0,
-        "y": 1323,
         "w": 250,
         "h": 438
       },
@@ -80,11 +20,11 @@
         "h": 500
       }
     },
-    "frame_033.png": {
+    "shouxian-1_00050.png": {
       "frame": {
         "x": 252,
         "y": 0,
-        "w": 250,
+        "w": 251,
         "h": 438
       },
       "rotated": false,
@@ -92,7 +32,7 @@
       "spriteSourceSize": {
         "x": 190,
         "y": 9,
-        "w": 250,
+        "w": 251,
         "h": 438
       },
       "sourceSize": {
@@ -100,19 +40,19 @@
         "h": 500
       }
     },
-    "frame_034.png": {
+    "shouxian-1_00051.png": {
       "frame": {
-        "x": 504,
+        "x": 505,
         "y": 0,
-        "w": 251,
+        "w": 250,
         "h": 438
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 190,
+        "x": 191,
         "y": 9,
-        "w": 251,
+        "w": 250,
         "h": 438
       },
       "sourceSize": {
@@ -120,11 +60,11 @@
         "h": 500
       }
     },
-    "frame_035.png": {
+    "shouxian-1_00053.png": {
       "frame": {
         "x": 757,
         "y": 0,
-        "w": 250,
+        "w": 251,
         "h": 438
       },
       "rotated": false,
@@ -132,7 +72,7 @@
       "spriteSourceSize": {
         "x": 191,
         "y": 9,
-        "w": 250,
+        "w": 251,
         "h": 438
       },
       "sourceSize": {
@@ -140,9 +80,9 @@
         "h": 500
       }
     },
-    "frame_036.png": {
+    "shouxian-1_00054.png": {
       "frame": {
-        "x": 1009,
+        "x": 1010,
         "y": 0,
         "w": 251,
         "h": 438
@@ -160,29 +100,9 @@
         "h": 500
       }
     },
-    "frame_037.png": {
+    "shouxian-1_00056.png": {
       "frame": {
-        "x": 1262,
-        "y": 0,
-        "w": 251,
-        "h": 438
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 191,
-        "y": 9,
-        "w": 251,
-        "h": 438
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_038.png": {
-      "frame": {
-        "x": 1515,
+        "x": 1263,
         "y": 0,
         "w": 253,
         "h": 438
@@ -200,9 +120,9 @@
         "h": 500
       }
     },
-    "frame_039.png": {
+    "shouxian-1_00057.png": {
       "frame": {
-        "x": 1770,
+        "x": 1518,
         "y": 0,
         "w": 254,
         "h": 438
@@ -220,9 +140,89 @@
         "h": 500
       }
     },
-    "frame_044.png": {
+    "shouxian-1_00059.png": {
       "frame": {
-        "x": 252,
+        "x": 1774,
+        "y": 0,
+        "w": 255,
+        "h": 437
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 9,
+        "w": 255,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouxian-1_00060.png": {
+      "frame": {
+        "x": 0,
+        "y": 440,
+        "w": 257,
+        "h": 435
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 10,
+        "w": 257,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouxian-1_00062.png": {
+      "frame": {
+        "x": 259,
+        "y": 440,
+        "w": 258,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 10,
+        "w": 258,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouxian-1_00063.png": {
+      "frame": {
+        "x": 519,
+        "y": 440,
+        "w": 258,
+        "h": 437
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 10,
+        "w": 258,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouxian-1_00065.png": {
+      "frame": {
+        "x": 779,
         "y": 440,
         "w": 259,
         "h": 437
@@ -240,9 +240,9 @@
         "h": 500
       }
     },
-    "frame_045.png": {
+    "shouxian-1_00066.png": {
       "frame": {
-        "x": 513,
+        "x": 1040,
         "y": 440,
         "w": 260,
         "h": 437
@@ -260,9 +260,9 @@
         "h": 500
       }
     },
-    "frame_046.png": {
+    "shouxian-1_00068.png": {
       "frame": {
-        "x": 775,
+        "x": 1302,
         "y": 440,
         "w": 263,
         "h": 438
@@ -280,9 +280,9 @@
         "h": 500
       }
     },
-    "frame_047.png": {
+    "shouxian-1_00069.png": {
       "frame": {
-        "x": 1040,
+        "x": 1567,
         "y": 440,
         "w": 266,
         "h": 435
@@ -300,10 +300,10 @@
         "h": 500
       }
     },
-    "frame_048.png": {
+    "shouxian-1_00071.png": {
       "frame": {
-        "x": 1308,
-        "y": 440,
+        "x": 0,
+        "y": 880,
         "w": 273,
         "h": 438
       },
@@ -320,9 +320,9 @@
         "h": 500
       }
     },
-    "frame_049.png": {
+    "shouxian-1_00072.png": {
       "frame": {
-        "x": 775,
+        "x": 275,
         "y": 880,
         "w": 277,
         "h": 442
@@ -340,9 +340,9 @@
         "h": 500
       }
     },
-    "frame_050.png": {
+    "shouxian-1_00074.png": {
       "frame": {
-        "x": 1054,
+        "x": 554,
         "y": 880,
         "w": 285,
         "h": 450
@@ -360,10 +360,10 @@
         "h": 500
       }
     },
-    "frame_051.png": {
+    "shouxian-1_00075.png": {
       "frame": {
-        "x": 1054,
-        "y": 1332,
+        "x": 841,
+        "y": 880,
         "w": 290,
         "h": 456
       },
@@ -380,10 +380,10 @@
         "h": 500
       }
     },
-    "frame_052.png": {
+    "shouxian-1_00077.png": {
       "frame": {
-        "x": 1346,
-        "y": 1332,
+        "x": 1133,
+        "y": 880,
         "w": 303,
         "h": 457
       },
@@ -400,10 +400,10 @@
         "h": 500
       }
     },
-    "frame_053.png": {
+    "shouxian-1_00078.png": {
       "frame": {
-        "x": 1651,
-        "y": 1332,
+        "x": 1438,
+        "y": 880,
         "w": 309,
         "h": 455
       },
@@ -420,10 +420,10 @@
         "h": 500
       }
     },
-    "frame_054.png": {
+    "shouxian-1_00080.png": {
       "frame": {
-        "x": 1341,
-        "y": 880,
+        "x": 0,
+        "y": 1339,
         "w": 329,
         "h": 449
       },
@@ -440,10 +440,10 @@
         "h": 500
       }
     },
-    "frame_055.png": {
+    "shouxian-1_00081.png": {
       "frame": {
-        "x": 1672,
-        "y": 880,
+        "x": 331,
+        "y": 1339,
         "w": 344,
         "h": 446
       },
@@ -460,120 +460,60 @@
         "h": 500
       }
     },
-    "frame_060.png": {
+    "shouxian-1_00083.png": {
       "frame": {
-        "x": 775,
-        "y": 1324,
-        "w": 269,
-        "h": 475
+        "x": 677,
+        "y": 1339,
+        "w": 387,
+        "h": 455
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 168,
-        "y": 19,
-        "w": 269,
-        "h": 475
+        "x": 70,
+        "y": 13,
+        "w": 387,
+        "h": 455
       },
       "sourceSize": {
         "w": 600,
         "h": 500
       }
     },
-    "frame_061.png": {
+    "shouxian-1_00084.png": {
       "frame": {
-        "x": 252,
-        "y": 879,
-        "w": 247,
-        "h": 478
+        "x": 1066,
+        "y": 1339,
+        "w": 387,
+        "h": 462
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 189,
-        "y": 19,
-        "w": 247,
-        "h": 478
+        "x": 68,
+        "y": 14,
+        "w": 387,
+        "h": 462
       },
       "sourceSize": {
         "w": 600,
         "h": 500
       }
     },
-    "frame_062.png": {
+    "shouxian-1_00086.png": {
       "frame": {
-        "x": 252,
-        "y": 1359,
-        "w": 237,
-        "h": 477
+        "x": 1455,
+        "y": 1339,
+        "w": 355,
+        "h": 480
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 199,
-        "y": 20,
-        "w": 237,
-        "h": 477
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_063.png": {
-      "frame": {
-        "x": 513,
-        "y": 879,
-        "w": 237,
-        "h": 476
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 199,
-        "y": 21,
-        "w": 237,
-        "h": 476
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_064.png": {
-      "frame": {
-        "x": 513,
-        "y": 1357,
-        "w": 236,
-        "h": 472
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 200,
-        "y": 22,
-        "w": 236,
-        "h": 472
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_076.png": {
-      "frame": {
-        "x": 1583,
-        "y": 440,
-        "w": 243,
-        "h": 437
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 197,
-        "y": 20,
-        "w": 243,
-        "h": 437
+        "x": 92,
+        "y": 16,
+        "w": 355,
+        "h": 480
       },
       "sourceSize": {
         "w": 600,

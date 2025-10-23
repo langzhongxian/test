@@ -1,10 +1,10 @@
 {
   "frames": {
-    "frame_096.png": {
+    "shoupai6_guodu-1_00144.png": {
       "frame": {
         "x": 0,
         "y": 0,
-        "w": 248,
+        "w": 247,
         "h": 436
       },
       "rotated": false,
@@ -12,7 +12,7 @@
       "spriteSourceSize": {
         "x": 193,
         "y": 10,
-        "w": 248,
+        "w": 247,
         "h": 436
       },
       "sourceSize": {
@@ -20,69 +20,9 @@
         "h": 500
       }
     },
-    "frame_098.png": {
+    "shoupai6_guodu-1_00146.png": {
       "frame": {
-        "x": 0,
-        "y": 438,
-        "w": 248,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 192,
-        "y": 10,
-        "w": 248,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_099.png": {
-      "frame": {
-        "x": 0,
-        "y": 876,
-        "w": 248,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 192,
-        "y": 10,
-        "w": 248,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_100.png": {
-      "frame": {
-        "x": 0,
-        "y": 1314,
-        "w": 248,
-        "h": 436
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 192,
-        "y": 10,
-        "w": 248,
-        "h": 436
-      },
-      "sourceSize": {
-        "w": 600,
-        "h": 500
-      }
-    },
-    "frame_101.png": {
-      "frame": {
-        "x": 250,
+        "x": 249,
         "y": 0,
         "w": 248,
         "h": 436
@@ -100,9 +40,69 @@
         "h": 500
       }
     },
-    "frame_102.png": {
+    "shoupai6_guodu-1_00147.png": {
       "frame": {
-        "x": 500,
+        "x": 499,
+        "y": 0,
+        "w": 248,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 192,
+        "y": 10,
+        "w": 248,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shoupai6_guodu-1_00149.png": {
+      "frame": {
+        "x": 749,
+        "y": 0,
+        "w": 248,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 192,
+        "y": 10,
+        "w": 248,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shoupai6_guodu-1_00150.png": {
+      "frame": {
+        "x": 999,
+        "y": 0,
+        "w": 248,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 192,
+        "y": 10,
+        "w": 248,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shoupai6_guodu-1_00152.png": {
+      "frame": {
+        "x": 1249,
         "y": 0,
         "w": 247,
         "h": 436
