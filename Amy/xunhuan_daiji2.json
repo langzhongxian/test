@@ -1,0 +1,148 @@
+{
+  "frames": {
+    "frame_013.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 446
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      }
+    },
+    "frame_014.png": {
+      "frame": {
+        "x": 602,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 446
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      }
+    },
+    "frame_015.png": {
+      "frame": {
+        "x": 1204,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 446
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      }
+    },
+    "frame_016.png": {
+      "frame": {
+        "x": 0,
+        "y": 448,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 446
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      }
+    },
+    "frame_017.png": {
+      "frame": {
+        "x": 0,
+        "y": 896,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 446
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      }
+    },
+    "frame_018.png": {
+      "frame": {
+        "x": 0,
+        "y": 1344,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 446
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      }
+    },
+    "frame_019.png": {
+      "frame": {
+        "x": 602,
+        "y": 448,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 446
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      }
+    },
+    "frame_020.png": {
+      "frame": {
+        "x": 1204,
+        "y": 448,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 446
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      }
+    }
+  }
+}
