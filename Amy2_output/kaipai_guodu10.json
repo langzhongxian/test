@@ -1,0 +1,144 @@
+{
+  "frames": {
+    "kaipai_guodu-1_00072.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 433
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 9,
+        "w": 246,
+        "h": 433
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai_guodu-1_00073.png": {
+      "frame": {
+        "x": 248,
+        "y": 0,
+        "w": 248,
+        "h": 441
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 9,
+        "w": 248,
+        "h": 441
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai_guodu-1_00074.png": {
+      "frame": {
+        "x": 498,
+        "y": 0,
+        "w": 249,
+        "h": 445
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 9,
+        "w": 249,
+        "h": 445
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai_guodu-1_00075.png": {
+      "frame": {
+        "x": 749,
+        "y": 0,
+        "w": 251,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 9,
+        "w": 251,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai_guodu-1_00076.png": {
+      "frame": {
+        "x": 0,
+        "y": 448,
+        "w": 251,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 9,
+        "w": 251,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai_guodu-1_00077.png": {
+      "frame": {
+        "x": 253,
+        "y": 448,
+        "w": 253,
+        "h": 444
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 9,
+        "w": 253,
+        "h": 444
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai_guodu-1_00078.png": {
+      "frame": {
+        "x": 508,
+        "y": 448,
+        "w": 255,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 9,
+        "w": 255,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

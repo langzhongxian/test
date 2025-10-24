@@ -1,0 +1,124 @@
+{
+  "frames": {
+    "buzhuang_guodu-1_00047.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 261,
+        "h": 423
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 9,
+        "w": 261,
+        "h": 423
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00048.png": {
+      "frame": {
+        "x": 263,
+        "y": 0,
+        "w": 263,
+        "h": 425
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 9,
+        "w": 263,
+        "h": 425
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00049.png": {
+      "frame": {
+        "x": 528,
+        "y": 0,
+        "w": 264,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 9,
+        "w": 264,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00050.png": {
+      "frame": {
+        "x": 0,
+        "y": 430,
+        "w": 263,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 9,
+        "w": 263,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00051.png": {
+      "frame": {
+        "x": 265,
+        "y": 430,
+        "w": 263,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 9,
+        "w": 263,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00052.png": {
+      "frame": {
+        "x": 530,
+        "y": 430,
+        "w": 262,
+        "h": 433
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 9,
+        "w": 262,
+        "h": 433
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

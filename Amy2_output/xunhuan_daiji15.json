@@ -1,0 +1,44 @@
+{
+  "frames": {
+    "xunhuan_daiji-1_00028.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "xunhuan_daiji-1_00029.png": {
+      "frame": {
+        "x": 0,
+        "y": 448,
+        "w": 600,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

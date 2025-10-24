@@ -1,0 +1,44 @@
+{
+  "frames": {
+    "shouxian-1_00156.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 536,
+        "h": 448
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 12,
+        "w": 536,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouxian-1_00157.png": {
+      "frame": {
+        "x": 0,
+        "y": 450,
+        "w": 511,
+        "h": 448
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 11,
+        "w": 511,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

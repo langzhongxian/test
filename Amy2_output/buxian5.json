@@ -1,0 +1,144 @@
+{
+  "frames": {
+    "buxain-1_00032.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 242,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 10,
+        "w": 242,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxain-1_00033.png": {
+      "frame": {
+        "x": 244,
+        "y": 0,
+        "w": 241,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 10,
+        "w": 241,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxain-1_00034.png": {
+      "frame": {
+        "x": 487,
+        "y": 0,
+        "w": 243,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 10,
+        "w": 243,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxain-1_00035.png": {
+      "frame": {
+        "x": 732,
+        "y": 0,
+        "w": 247,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 10,
+        "w": 247,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxain-1_00036.png": {
+      "frame": {
+        "x": 0,
+        "y": 430,
+        "w": 253,
+        "h": 425
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 10,
+        "w": 253,
+        "h": 425
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxain-1_00037.png": {
+      "frame": {
+        "x": 255,
+        "y": 430,
+        "w": 262,
+        "h": 425
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 10,
+        "w": 262,
+        "h": 425
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buxain-1_00038.png": {
+      "frame": {
+        "x": 519,
+        "y": 430,
+        "w": 279,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 11,
+        "w": 279,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

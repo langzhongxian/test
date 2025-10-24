@@ -1,0 +1,144 @@
+{
+  "frames": {
+    "shouzhuang-1_00056.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 242,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 192,
+        "y": 9,
+        "w": 242,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00057.png": {
+      "frame": {
+        "x": 244,
+        "y": 0,
+        "w": 244,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 9,
+        "w": 244,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00058.png": {
+      "frame": {
+        "x": 490,
+        "y": 0,
+        "w": 247,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 9,
+        "w": 247,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00059.png": {
+      "frame": {
+        "x": 739,
+        "y": 0,
+        "w": 254,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 9,
+        "w": 254,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00060.png": {
+      "frame": {
+        "x": 0,
+        "y": 434,
+        "w": 266,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 9,
+        "w": 266,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00061.png": {
+      "frame": {
+        "x": 268,
+        "y": 434,
+        "w": 275,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 9,
+        "w": 275,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00062.png": {
+      "frame": {
+        "x": 545,
+        "y": 434,
+        "w": 285,
+        "h": 453
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 9,
+        "w": 285,
+        "h": 453
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "frames": {
+    "kaipai-1_00081.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 265,
+        "h": 407
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 163,
+        "y": 10,
+        "w": 265,
+        "h": 407
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00082.png": {
+      "frame": {
+        "x": 267,
+        "y": 0,
+        "w": 265,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 165,
+        "y": 10,
+        "w": 265,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00083.png": {
+      "frame": {
+        "x": 534,
+        "y": 0,
+        "w": 264,
+        "h": 401
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 167,
+        "y": 10,
+        "w": 264,
+        "h": 401
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00084.png": {
+      "frame": {
+        "x": 0,
+        "y": 409,
+        "w": 264,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 169,
+        "y": 10,
+        "w": 264,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00085.png": {
+      "frame": {
+        "x": 266,
+        "y": 409,
+        "w": 262,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 172,
+        "y": 10,
+        "w": 262,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00086.png": {
+      "frame": {
+        "x": 530,
+        "y": 409,
+        "w": 261,
+        "h": 393
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 174,
+        "y": 10,
+        "w": 261,
+        "h": 393
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

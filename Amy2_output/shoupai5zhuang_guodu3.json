@@ -1,0 +1,164 @@
+{
+  "frames": {
+    "shouzhuaung_guodu-1_00015.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 8,
+        "w": 246,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuaung_guodu-1_00016.png": {
+      "frame": {
+        "x": 248,
+        "y": 0,
+        "w": 246,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 8,
+        "w": 246,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuaung_guodu-1_00017.png": {
+      "frame": {
+        "x": 496,
+        "y": 0,
+        "w": 246,
+        "h": 448
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 8,
+        "w": 246,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuaung_guodu-1_00018.png": {
+      "frame": {
+        "x": 744,
+        "y": 0,
+        "w": 245,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 9,
+        "w": 245,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuaung_guodu-1_00019.png": {
+      "frame": {
+        "x": 0,
+        "y": 450,
+        "w": 246,
+        "h": 448
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 8,
+        "w": 246,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuaung_guodu-1_00020.png": {
+      "frame": {
+        "x": 248,
+        "y": 450,
+        "w": 248,
+        "h": 448
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 8,
+        "w": 248,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuaung_guodu-1_00021.png": {
+      "frame": {
+        "x": 498,
+        "y": 450,
+        "w": 248,
+        "h": 448
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 8,
+        "w": 248,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuaung_guodu-1_00022.png": {
+      "frame": {
+        "x": 748,
+        "y": 450,
+        "w": 250,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 9,
+        "w": 250,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

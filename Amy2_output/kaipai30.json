@@ -1,0 +1,24 @@
+{
+  "frames": {
+    "kaipai-1_00199.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 245,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 195,
+        "y": 9,
+        "w": 245,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

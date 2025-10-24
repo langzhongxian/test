@@ -1,0 +1,84 @@
+{
+  "frames": {
+    "shoupai6-1_00040.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 366,
+        "h": 487
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 12,
+        "w": 366,
+        "h": 487
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shoupai6-1_00041.png": {
+      "frame": {
+        "x": 368,
+        "y": 0,
+        "w": 389,
+        "h": 483
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 13,
+        "w": 389,
+        "h": 483
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shoupai6-1_00042.png": {
+      "frame": {
+        "x": 0,
+        "y": 489,
+        "w": 410,
+        "h": 482
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 13,
+        "w": 410,
+        "h": 482
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shoupai6-1_00043.png": {
+      "frame": {
+        "x": 412,
+        "y": 489,
+        "w": 427,
+        "h": 482
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 13,
+        "w": 427,
+        "h": 482
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

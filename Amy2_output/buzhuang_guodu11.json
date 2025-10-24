@@ -1,0 +1,144 @@
+{
+  "frames": {
+    "buzhuang_guodu-1_00073.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 258,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 9,
+        "w": 258,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00074.png": {
+      "frame": {
+        "x": 260,
+        "y": 0,
+        "w": 255,
+        "h": 444
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 9,
+        "w": 255,
+        "h": 444
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00075.png": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 253,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 9,
+        "w": 253,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00076.png": {
+      "frame": {
+        "x": 0,
+        "y": 446,
+        "w": 253,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 9,
+        "w": 253,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00077.png": {
+      "frame": {
+        "x": 255,
+        "y": 446,
+        "w": 250,
+        "h": 444
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 8,
+        "w": 250,
+        "h": 444
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00078.png": {
+      "frame": {
+        "x": 507,
+        "y": 446,
+        "w": 249,
+        "h": 444
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 8,
+        "w": 249,
+        "h": 444
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang_guodu-1_00079.png": {
+      "frame": {
+        "x": 758,
+        "y": 446,
+        "w": 247,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 9,
+        "w": 247,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

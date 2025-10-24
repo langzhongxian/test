@@ -1,0 +1,104 @@
+{
+  "frames": {
+    "fapai-1_00157.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 326,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 16,
+        "w": 326,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00158.png": {
+      "frame": {
+        "x": 328,
+        "y": 0,
+        "w": 335,
+        "h": 438
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 169,
+        "y": 16,
+        "w": 335,
+        "h": 438
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00159.png": {
+      "frame": {
+        "x": 665,
+        "y": 0,
+        "w": 344,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 168,
+        "y": 16,
+        "w": 344,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00160.png": {
+      "frame": {
+        "x": 0,
+        "y": 445,
+        "w": 353,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 168,
+        "y": 16,
+        "w": 353,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00161.png": {
+      "frame": {
+        "x": 355,
+        "y": 445,
+        "w": 360,
+        "h": 451
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 168,
+        "y": 16,
+        "w": 360,
+        "h": 451
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

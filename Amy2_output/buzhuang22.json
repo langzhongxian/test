@@ -1,0 +1,144 @@
+{
+  "frames": {
+    "buzhuang-1_00146.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 9,
+        "w": 243,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang-1_00147.png": {
+      "frame": {
+        "x": 245,
+        "y": 0,
+        "w": 243,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 9,
+        "w": 243,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang-1_00148.png": {
+      "frame": {
+        "x": 490,
+        "y": 0,
+        "w": 243,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 9,
+        "w": 243,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang-1_00149.png": {
+      "frame": {
+        "x": 735,
+        "y": 0,
+        "w": 243,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 9,
+        "w": 243,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang-1_00150.png": {
+      "frame": {
+        "x": 0,
+        "y": 426,
+        "w": 243,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 9,
+        "w": 243,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang-1_00151.png": {
+      "frame": {
+        "x": 245,
+        "y": 426,
+        "w": 243,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 9,
+        "w": 243,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "buzhuang-1_00152.png": {
+      "frame": {
+        "x": 490,
+        "y": 426,
+        "w": 243,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 9,
+        "w": 243,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

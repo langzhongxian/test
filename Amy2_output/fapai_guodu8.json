@@ -1,0 +1,144 @@
+{
+  "frames": {
+    "fapai_guodu-1_00056.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 249,
+        "h": 437
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 11,
+        "w": 249,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai_guodu-1_00057.png": {
+      "frame": {
+        "x": 251,
+        "y": 0,
+        "w": 250,
+        "h": 437
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 11,
+        "w": 250,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai_guodu-1_00058.png": {
+      "frame": {
+        "x": 503,
+        "y": 0,
+        "w": 251,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 11,
+        "w": 251,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai_guodu-1_00059.png": {
+      "frame": {
+        "x": 756,
+        "y": 0,
+        "w": 253,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 11,
+        "w": 253,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai_guodu-1_00060.png": {
+      "frame": {
+        "x": 0,
+        "y": 439,
+        "w": 255,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 11,
+        "w": 255,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai_guodu-1_00061.png": {
+      "frame": {
+        "x": 257,
+        "y": 439,
+        "w": 255,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 11,
+        "w": 255,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai_guodu-1_00062.png": {
+      "frame": {
+        "x": 514,
+        "y": 439,
+        "w": 258,
+        "h": 438
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 10,
+        "w": 258,
+        "h": 438
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

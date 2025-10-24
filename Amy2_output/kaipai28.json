@@ -1,0 +1,164 @@
+{
+  "frames": {
+    "kaipai-1_00183.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 419
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 198,
+        "y": 10,
+        "w": 241,
+        "h": 419
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00184.png": {
+      "frame": {
+        "x": 243,
+        "y": 0,
+        "w": 243,
+        "h": 420
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 10,
+        "w": 243,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00185.png": {
+      "frame": {
+        "x": 488,
+        "y": 0,
+        "w": 243,
+        "h": 421
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 9,
+        "w": 243,
+        "h": 421
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00186.png": {
+      "frame": {
+        "x": 733,
+        "y": 0,
+        "w": 243,
+        "h": 421
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 9,
+        "w": 243,
+        "h": 421
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00187.png": {
+      "frame": {
+        "x": 0,
+        "y": 423,
+        "w": 243,
+        "h": 422
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 9,
+        "w": 243,
+        "h": 422
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00188.png": {
+      "frame": {
+        "x": 245,
+        "y": 423,
+        "w": 243,
+        "h": 422
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 9,
+        "w": 243,
+        "h": 422
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00189.png": {
+      "frame": {
+        "x": 490,
+        "y": 423,
+        "w": 243,
+        "h": 422
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 9,
+        "w": 243,
+        "h": 422
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "kaipai-1_00190.png": {
+      "frame": {
+        "x": 735,
+        "y": 423,
+        "w": 243,
+        "h": 423
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 9,
+        "w": 243,
+        "h": 423
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

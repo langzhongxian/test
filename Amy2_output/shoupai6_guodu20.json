@@ -1,0 +1,24 @@
+{
+  "frames": {
+    "shoupai6_guodu-1_00152.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 192,
+        "y": 10,
+        "w": 247,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

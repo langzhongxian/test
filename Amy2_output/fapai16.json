@@ -1,0 +1,144 @@
+{
+  "frames": {
+    "fapai-1_00093.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 283,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 11,
+        "w": 283,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00094.png": {
+      "frame": {
+        "x": 285,
+        "y": 0,
+        "w": 274,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 181,
+        "y": 12,
+        "w": 274,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00095.png": {
+      "frame": {
+        "x": 561,
+        "y": 0,
+        "w": 266,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 12,
+        "w": 266,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00096.png": {
+      "frame": {
+        "x": 0,
+        "y": 448,
+        "w": 258,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 12,
+        "w": 258,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00097.png": {
+      "frame": {
+        "x": 260,
+        "y": 448,
+        "w": 252,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 13,
+        "w": 252,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00098.png": {
+      "frame": {
+        "x": 514,
+        "y": 448,
+        "w": 248,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 14,
+        "w": 248,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "fapai-1_00099.png": {
+      "frame": {
+        "x": 764,
+        "y": 448,
+        "w": 247,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 14,
+        "w": 247,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "frames": {
+    "shouzhuang-1_00032.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 237,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 9,
+        "w": 237,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00033.png": {
+      "frame": {
+        "x": 239,
+        "y": 0,
+        "w": 237,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 8,
+        "w": 237,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00034.png": {
+      "frame": {
+        "x": 478,
+        "y": 0,
+        "w": 237,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 8,
+        "w": 237,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00035.png": {
+      "frame": {
+        "x": 717,
+        "y": 0,
+        "w": 237,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 8,
+        "w": 237,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00036.png": {
+      "frame": {
+        "x": 0,
+        "y": 433,
+        "w": 237,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 8,
+        "w": 237,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00037.png": {
+      "frame": {
+        "x": 239,
+        "y": 433,
+        "w": 237,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 8,
+        "w": 237,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00038.png": {
+      "frame": {
+        "x": 478,
+        "y": 433,
+        "w": 237,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 8,
+        "w": 237,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shouzhuang-1_00039.png": {
+      "frame": {
+        "x": 717,
+        "y": 433,
+        "w": 237,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 8,
+        "w": 237,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}

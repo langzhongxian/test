@@ -1,0 +1,44 @@
+{
+  "frames": {
+    "shoupai6-1_00119.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 534,
+        "h": 461
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 5,
+        "w": 534,
+        "h": 461
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    },
+    "shoupai6-1_00120.png": {
+      "frame": {
+        "x": 0,
+        "y": 463,
+        "w": 522,
+        "h": 462
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 5,
+        "w": 522,
+        "h": 462
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 500
+      }
+    }
+  }
+}
