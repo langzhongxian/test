@@ -1,0 +1,164 @@
+{
+  "frames": {
+    "shoupai5_zhuangguodu_01226.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 181,
+        "y": 3,
+        "w": 256,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01227.png": {
+      "frame": {
+        "x": 258,
+        "y": 0,
+        "w": 255,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 181,
+        "y": 3,
+        "w": 255,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01228.png": {
+      "frame": {
+        "x": 515,
+        "y": 0,
+        "w": 252,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 3,
+        "w": 252,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01229.png": {
+      "frame": {
+        "x": 769,
+        "y": 0,
+        "w": 252,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 3,
+        "w": 252,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01230.png": {
+      "frame": {
+        "x": 0,
+        "y": 445,
+        "w": 251,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 3,
+        "w": 251,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01231.png": {
+      "frame": {
+        "x": 253,
+        "y": 445,
+        "w": 250,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 3,
+        "w": 250,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01232.png": {
+      "frame": {
+        "x": 505,
+        "y": 445,
+        "w": 249,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 3,
+        "w": 249,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01233.png": {
+      "frame": {
+        "x": 756,
+        "y": 445,
+        "w": 250,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 3,
+        "w": 250,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    }
+  }
+}

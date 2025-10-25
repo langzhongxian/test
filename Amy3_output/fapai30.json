@@ -1,0 +1,84 @@
+{
+  "frames": {
+    "fapai_00166.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 402,
+        "h": 463
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 164,
+        "y": 9,
+        "w": 402,
+        "h": 463
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "fapai_00167.png": {
+      "frame": {
+        "x": 404,
+        "y": 0,
+        "w": 394,
+        "h": 464
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 165,
+        "y": 9,
+        "w": 394,
+        "h": 464
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "fapai_00168.png": {
+      "frame": {
+        "x": 0,
+        "y": 466,
+        "w": 383,
+        "h": 464
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 166,
+        "y": 9,
+        "w": 383,
+        "h": 464
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "fapai_00169.png": {
+      "frame": {
+        "x": 385,
+        "y": 466,
+        "w": 367,
+        "h": 461
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 167,
+        "y": 9,
+        "w": 367,
+        "h": 461
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    }
+  }
+}

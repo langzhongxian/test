@@ -1,0 +1,144 @@
+{
+  "frames": {
+    "shoupai5_zhuangguodu_01176.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 0,
+        "w": 257,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01177.png": {
+      "frame": {
+        "x": 259,
+        "y": 0,
+        "w": 255,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 0,
+        "w": 255,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01178.png": {
+      "frame": {
+        "x": 516,
+        "y": 0,
+        "w": 253,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 0,
+        "w": 253,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01179.png": {
+      "frame": {
+        "x": 0,
+        "y": 457,
+        "w": 253,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 0,
+        "w": 253,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01180.png": {
+      "frame": {
+        "x": 255,
+        "y": 457,
+        "w": 252,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 0,
+        "w": 252,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01181.png": {
+      "frame": {
+        "x": 509,
+        "y": 457,
+        "w": 252,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 0,
+        "w": 252,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuangguodu_01182.png": {
+      "frame": {
+        "x": 763,
+        "y": 457,
+        "w": 253,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 0,
+        "w": 253,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    }
+  }
+}

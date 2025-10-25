@@ -1,0 +1,124 @@
+{
+  "frames": {
+    "fapai_00221.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 3,
+        "w": 257,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "fapai_00222.png": {
+      "frame": {
+        "x": 259,
+        "y": 0,
+        "w": 256,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 3,
+        "w": 256,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "fapai_00223.png": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 257,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 3,
+        "w": 257,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "fapai_00224.png": {
+      "frame": {
+        "x": 0,
+        "y": 445,
+        "w": 257,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 3,
+        "w": 257,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "fapai_00225.png": {
+      "frame": {
+        "x": 259,
+        "y": 445,
+        "w": 256,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 3,
+        "w": 256,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "fapai_00226.png": {
+      "frame": {
+        "x": 517,
+        "y": 445,
+        "w": 257,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 3,
+        "w": 257,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    }
+  }
+}

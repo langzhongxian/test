@@ -1,0 +1,124 @@
+{
+  "frames": {
+    "buxian_00675.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 298,
+        "h": 422
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 7,
+        "w": 298,
+        "h": 422
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "buxian_00676.png": {
+      "frame": {
+        "x": 300,
+        "y": 0,
+        "w": 289,
+        "h": 421
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 7,
+        "w": 289,
+        "h": 421
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "buxian_00677.png": {
+      "frame": {
+        "x": 591,
+        "y": 0,
+        "w": 281,
+        "h": 421
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 7,
+        "w": 281,
+        "h": 421
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "buxian_00678.png": {
+      "frame": {
+        "x": 0,
+        "y": 424,
+        "w": 271,
+        "h": 420
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 7,
+        "w": 271,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "buxian_00679.png": {
+      "frame": {
+        "x": 273,
+        "y": 424,
+        "w": 262,
+        "h": 421
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 7,
+        "w": 262,
+        "h": 421
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "buxian_00680.png": {
+      "frame": {
+        "x": 537,
+        "y": 424,
+        "w": 252,
+        "h": 423
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 7,
+        "w": 252,
+        "h": 423
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    }
+  }
+}

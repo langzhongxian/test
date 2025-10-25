@@ -1,0 +1,104 @@
+{
+  "frames": {
+    "shoupai5_xian_01117.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 418,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 6,
+        "w": 418,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_xian_01118.png": {
+      "frame": {
+        "x": 420,
+        "y": 0,
+        "w": 394,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 6,
+        "w": 394,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_xian_01119.png": {
+      "frame": {
+        "x": 0,
+        "y": 445,
+        "w": 345,
+        "h": 435
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 129,
+        "y": 6,
+        "w": 345,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_xian_01120.png": {
+      "frame": {
+        "x": 347,
+        "y": 445,
+        "w": 314,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 142,
+        "y": 6,
+        "w": 314,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_xian_01121.png": {
+      "frame": {
+        "x": 663,
+        "y": 445,
+        "w": 277,
+        "h": 434
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 6,
+        "w": 277,
+        "h": 434
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    }
+  }
+}
