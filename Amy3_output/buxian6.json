@@ -1,0 +1,104 @@
+{
+  "frames": {
+    "buxian_00660.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 423
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 6,
+        "w": 293,
+        "h": 423
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "buxian_00661.png": {
+      "frame": {
+        "x": 295,
+        "y": 0,
+        "w": 307,
+        "h": 438
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 6,
+        "w": 307,
+        "h": 438
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "buxian_00662.png": {
+      "frame": {
+        "x": 604,
+        "y": 0,
+        "w": 320,
+        "h": 422
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 7,
+        "w": 320,
+        "h": 422
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "buxian_00663.png": {
+      "frame": {
+        "x": 0,
+        "y": 440,
+        "w": 341,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 7,
+        "w": 341,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "buxian_00664.png": {
+      "frame": {
+        "x": 343,
+        "y": 440,
+        "w": 352,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 175,
+        "y": 7,
+        "w": 352,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    }
+  }
+}

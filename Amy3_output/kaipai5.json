@@ -1,0 +1,144 @@
+{
+  "frames": {
+    "kaipai_00454.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 245,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 4,
+        "w": 245,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "kaipai_00455.png": {
+      "frame": {
+        "x": 247,
+        "y": 0,
+        "w": 247,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 181,
+        "y": 4,
+        "w": 247,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "kaipai_00456.png": {
+      "frame": {
+        "x": 496,
+        "y": 0,
+        "w": 251,
+        "h": 401
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 4,
+        "w": 251,
+        "h": 401
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "kaipai_00457.png": {
+      "frame": {
+        "x": 749,
+        "y": 0,
+        "w": 256,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 177,
+        "y": 4,
+        "w": 256,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "kaipai_00458.png": {
+      "frame": {
+        "x": 0,
+        "y": 408,
+        "w": 263,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 174,
+        "y": 4,
+        "w": 263,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "kaipai_00459.png": {
+      "frame": {
+        "x": 265,
+        "y": 408,
+        "w": 267,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 172,
+        "y": 4,
+        "w": 267,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "kaipai_00460.png": {
+      "frame": {
+        "x": 534,
+        "y": 408,
+        "w": 271,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 169,
+        "y": 4,
+        "w": 271,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "frames": {
+    "shoupai5_zhuang_01113.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 467
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 0,
+        "w": 532,
+        "h": 467
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    },
+    "shoupai5_zhuang_01114.png": {
+      "frame": {
+        "x": 0,
+        "y": 469,
+        "w": 536,
+        "h": 468
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 0,
+        "w": 536,
+        "h": 468
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 490
+      }
+    }
+  }
+}
